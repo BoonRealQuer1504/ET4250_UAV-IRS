@@ -1,5 +1,4 @@
 """
-irs_model.py
 IRS model cho UAV-IRS downlink
 - Double path loss: UAV → IRS → GS
 - IRS gain sinh ra từ phase alignment (KHÔNG cộng tay)

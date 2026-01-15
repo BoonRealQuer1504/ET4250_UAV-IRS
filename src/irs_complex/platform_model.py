@@ -1,6 +1,5 @@
 """
 UAV geometry & mobility model for UAV–IRS system
-(Updated: consistent angle conventions for IRS array response)
 """
 
 import numpy as np

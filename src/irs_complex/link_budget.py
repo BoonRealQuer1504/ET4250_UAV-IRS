@@ -1,6 +1,5 @@
 """
 LINK BUDGET UAV–IRS DOWNLINK (FINAL – PHYSICALLY CONSISTENT)
-
 - Direct link: blockage at low elevation
 - IRS link: phase-optimized, bypass blockage
 - Correct power combining (linear domain)

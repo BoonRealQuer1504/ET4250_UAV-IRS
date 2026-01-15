@@ -1,11 +1,10 @@
 """
-params.py
 Tham số hệ thống UAV mang IRS hỗ trợ downlink
 Phiên bản FINAL:
 - Geometric IRS channel (array response, theta/phi)
 - Mobility & Doppler (time-selective fading)
 - BER, capacity, optimization-ready
-- Phù hợp yêu cầu Physical Layer + Optimization
+- Physical Layer + Optimization
 """
 
 import numpy as np

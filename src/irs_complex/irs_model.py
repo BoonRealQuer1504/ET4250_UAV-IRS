@@ -1,5 +1,4 @@
 """
-irs_model.py
 Final IRS model for UAV–IRS downlink
 - Double path loss (UAV → IRS → GS)
 - Separate AoA / AoD
